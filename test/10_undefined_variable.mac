@@ -1,0 +1,5 @@
+ROUTINE TestUndefined
+#ifdef SAMPLE_DEFINED
+ Set x = 1
+#endif
+ Write x,!

@@ -1,0 +1,3 @@
+ROUTINE UndefinedVar
+ Write y,!
+ Quit

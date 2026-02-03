@@ -1,0 +1,3 @@
+ROUTINE IntRoutine
+ Set a = 1
+ Write a,!

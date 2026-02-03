@@ -1,0 +1,8 @@
+<html>
+<body>
+<script language="objectscript">
+ Set c = 1
+ Write c,!
+</script>
+</body>
+</html>

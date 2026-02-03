@@ -1,0 +1,3 @@
+Write "No routine header here",!
+Set x = 1
+Write x,!

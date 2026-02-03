@@ -1,0 +1,4 @@
+ROUTINE SimpleOk
+ Set x = 1
+ Write x,!
+ Quit
