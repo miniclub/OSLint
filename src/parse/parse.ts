@@ -2,7 +2,7 @@ import { compressedresult, compressedline } from '../utils/types'
 import { colorRoutineLine, isRoutineHeader, routineheadertype } from './routineheader/parseroutineheader';
 import { SemanticTokensLegend } from 'vscode-languageserver';
 import { GetLanguageAttributes, Tokenize } from '../../lib/isclexer.node';
-import { lexerLanguages } from '../utils/lexerLanguages';
+import { lexerLanguages } from '../utils/variables';
 
 // Set this to false if routines stop using the ROUTINE header line
 const acceptroutineheaderline = true;
