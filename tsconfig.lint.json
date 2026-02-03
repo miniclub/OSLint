@@ -1,0 +1,23 @@
+{
+	"compilerOptions": {
+		"target": "es6",
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"sourceMap": true,
+		"strict": true,
+		"strictNullChecks": false,
+		"outDir": "out",
+		"rootDir": "src",
+		"noImplicitAny": false,
+		"resolveJsonModule": true,
+		"allowJs": true
+	},
+	"include": [
+		"src/cli/**/*.ts",
+		"src/parse/routineheader/**/*.ts",
+		"src/utils/types.ts",
+		"src/utils/variables.ts",
+		"src/utils/languageDefinitions.ts"
+	],
+	"exclude": ["node_modules", ".vscode-test"]
+}
