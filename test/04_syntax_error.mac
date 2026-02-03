@@ -1,3 +1,5 @@
 ROUTINE SyntaxErr
- Set x =
- Quit
+main() public {
+ Set x = 123
+ Qui
+}

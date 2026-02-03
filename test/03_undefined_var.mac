@@ -1,3 +1,5 @@
 ROUTINE UndefinedVar
+main() public {
  Write y,!
  Quit
+}
